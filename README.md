@@ -8,7 +8,7 @@ Online grocery shopping is booming, bringing convenience to countless homes. As 
 
 We're looking for your innovative ideas to tackle two key environmental challenges in the world of groceries.
 
-#### 🥕 Minimizing Food Waste
+#### Minimizing Food Waste
 
 How can we creatively reduce waste, both in our customers' homes and within our operations?
 
@@ -16,7 +16,7 @@ Think about leftovers from home cooking, whether they may be our products or par
 
 Can we find innovative ways to utilize these products or even turn them into something customers will love?
 
-#### 🌍 Lowering Our Carbon Footprint
+#### Lowering Our Carbon Footprint
 
 How can we empower customers to make greener choices?
 
@@ -26,27 +26,22 @@ To build even further on this, new initiatives could use our electric delivery v
 
 Dream big. We're open to any innovative approach. Your solution could involve optimizing the supply chain, creating new app features (or a whole new companion app), developing clever algorithms, or finding ingenious ways to promote behavioral change. The possibilities are endless.
 
-### 🧾 Data & Resources
+### 🛠️ **The Application That is Built**
 
-#### 🗃️ Data
+A sustainability-focused, AI-enhanced grocery companion platform that reduces food waste and carbon footprint through smart features for both customers and operations.
 
-You will receive mock data models for many of our domains: warehouse stock, product information, customer delivery data, delivery planning information.
+### 💻 Technology Stack
 
-#### 🧰 Resources Provided
+### ✅ Deliverables of the Challenge
 
-- Slides about the Picnic business model and domain  
-- Mentoring for hands-on work, and domain knowledge  
-- Interview with Picnic’s sustainability expert  
-- Icons and images for prototyping  
-
-### ✅ Expected Outcomes
+#### Expected Outcomes
 
 A functional prototype/MVP should be developed.  
 You are free in what kind of product you prototype. It may aim to extend our existing store app or be a fully standalone product.
 
 Want to dive deep into AI? Great, feel free to explore the cutting edge. More passionate about clever app design, supply chain tweaks, or behavioral nudges? That's fantastic too. There's no required level of AI focus – bring your best innovative ideas, whatever form they take.
 
-#### 📦 Deliverables
+#### Deliverables
 
 - Problem statement and solution overview  
 - Architectural diagram  
@@ -54,8 +49,15 @@ Want to dive deep into AI? Great, feel free to explore the cutting edge. More pa
 - Impact assessment on sustainability  
 - Future roadmap and potential scalability of the solution  
 
-### 🎯 Target Audience of the Challenge
+### 🧰 Provided Resources 
 
-- Students with interests in sustainability, e-commerce, supply chain, customer behavior  
-- Students with skills in app development, front-end, backend infrastructure  
-- Optionally, students with skills in data engineering or science. Depending on the solution, the use of ML methods can be very useful  
+- You will receive mock data models for many of our domains: warehouse stock, product information, customer delivery data, delivery planning information.
+- Slides about the Picnic business model and domain  
+- Mentoring for hands-on work, and domain knowledge  
+- Interview with Picnic’s sustainability expert  
+- Icons and images for prototyping
+
+### 🏆 Additional Prizes for Challenge Winner
+
+- Exclusive PicNic Goodie Bag
+- Call with CTO after the winner's announcement
