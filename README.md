@@ -1,6 +1,6 @@
-![Q-Hack_PicNic](https://github.com/user-attachments/assets/439fc8d9-6741-4936-b538-7a1bf2f33df5)
+![Q-Hack_Picnic](https://github.com/user-attachments/assets/439fc8d9-6741-4936-b538-7a1bf2f33df5)
 
-# <p align="center"> PicNic Challenge @ Q-Hack 2025 </p>
+# <p align="center"> Picnic Challenge @ Q-Hack 2025 </p>
 
 ## Build the World's Greenest Supermarket
 
